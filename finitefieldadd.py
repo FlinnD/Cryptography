@@ -86,6 +86,7 @@ def writeOutput():
 def invmodp(a):
     '''
     NOT MINE!!!!!
+	Credit:http://code.activestate.com/recipes/576737-inverse-modulo-p/
     The multiplicitive inverse of a in the integers modulo p.
     Return b s.t.
     a * b == 1 mod p
